@@ -29,14 +29,14 @@ This repository contains a Python-based real-time drowsiness detection system th
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/drowsiness-detection.git
+   git clone https://github.com/Real-J/drowsiness-monitoring-.git
    cd drowsiness-detection
    ```
 
 2. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install dlib
    ```
 
 3. Download the pre-trained shape predictor model:
@@ -67,18 +67,6 @@ This repository contains a Python-based real-time drowsiness detection system th
 - **MAR_THRESHOLD:** MAR value threshold to detect yawning (default: `0.75`).
 
 You can modify these constants in the script to adjust the sensitivity of the detection system.
-
----
-
-## File Structure
-
-```
-.
-├── drowsiness_detection.py   # Main script
-├── shape_predictor_68_face_landmarks.dat  # Pre-trained model (download separately)
-├── requirements.txt          # Dependencies
-└── README.md                 # Documentation
-```
 
 ---
 

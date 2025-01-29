@@ -1,4 +1,4 @@
-# Drowsiness-monitoring-
+# Drowsiness-monitoring
 
 
 This repository contains a Python-based real-time drowsiness detection system that uses OpenCV and Dlib libraries to monitor eye and mouth activity through webcam video feed. The system calculates Eye Aspect Ratio (EAR) and Mouth Aspect Ratio (MAR) to identify signs of drowsiness, such as frequent blinking or yawning.
@@ -30,7 +30,7 @@ This repository contains a Python-based real-time drowsiness detection system th
 
    ```bash
    git clone https://github.com/Real-J/drowsiness-monitoring-.git
-   cd drowsiness-detection
+   cd drowsiness-monitoring
    ```
 
 2. Install the required dependencies:

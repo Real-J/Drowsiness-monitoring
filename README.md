@@ -29,7 +29,7 @@ This repository contains a Python-based real-time drowsiness detection system th
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Real-J/drowsiness-monitoring-.git
+   git clone https://github.com/Real-J/drowsiness-monitoring.git
    cd drowsiness-monitoring
    ```
 
